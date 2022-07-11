@@ -17,7 +17,7 @@ nav {
   text-align: center;
   left: 50%;
   margin: auto;
-  width: 100%;
+  width:max-content;
   padding: 0.5rem;
   background-color: #E4DCCB;
 }
@@ -64,7 +64,7 @@ nav a[aria-current='page'] {
 }
 
 main {
-  
+  padding: 1rem;
 }
 
 h1 {
