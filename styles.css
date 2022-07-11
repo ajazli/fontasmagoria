@@ -17,13 +17,14 @@ nav {
   padding: 0.5rem;
   gap: 0.5rem;
   border-bottom: solid 1px #aaa;
-  background-color: #eee;
+  background-color: #CB814D;
 }
 
 .typeface{
   text-align: center;
   display: block;
   background-color: #CB814D;
+  color: black;
 }
 
 .typeface a{
