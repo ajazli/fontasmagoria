@@ -35,8 +35,9 @@ nav {
 nav a {
   display: inline-block;
   min-width: 9rem;
-  padding: 0.5rem;
+  padding: auto;
   text-align: center;
+  font-family: fantasy;
   text-decoration: none;
   color: black;
 }
