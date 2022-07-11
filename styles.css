@@ -46,6 +46,7 @@ nav {
 .topnav a{
   border-style: solid;
   font-size: large;
+  padding: 10px;
 }
 
 nav a {
