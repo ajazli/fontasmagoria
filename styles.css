@@ -14,7 +14,6 @@ nav {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  position: absolute;
   left: 50%;
   margin: auto;
   padding: 0.5rem;
@@ -38,6 +37,7 @@ nav {
 nav a {
   display: inline-block;
   min-width: 9rem;
+  position: relative;
   padding: auto;
   justify-content: center;
   text-align: center;
