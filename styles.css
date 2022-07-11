@@ -15,9 +15,9 @@ nav {
   align-items: center;
   justify-content: center;
   text-align: center;
+  width: 100%;
   left: 50%;
   margin: auto;
-  width:max-content;
   padding: 0.5rem;
   background-color: #E4DCCB;
 }
@@ -47,7 +47,6 @@ nav {
   border-style: solid;
   font-size: large;
   padding: 10px;
-  width: 100%;
 }
 
 nav a {
